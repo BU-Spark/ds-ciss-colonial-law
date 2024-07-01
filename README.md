@@ -1,7 +1,19 @@
-# TEMPLATE-base-repo
+# Summer 2024 Spark X-Lab
 
-Create a new branch from dev, add changes on the new branch you just created.
+## Current files
 
-Open a Pull Request to dev. Add your PM and TPM as reviewers. 
+* `data_scrap.ipynb`
+  * This notebook is intended to scrap data from targeted website. You can find the detailed method under "Spark!-CISS-SU24 Methodology.pdf".
+  * **NOTE**: This jupyter notebook is using Polars instead of Pandas
+* `Spark!-CISS-SU24 Methodology.pdf`
+  * An file documented the scrapping strategy.
+* `EDA.ipynb`
+  * A notebook for exploratory data analysis. 
+* `README.md`
+  * The file you're reading.
 
-At the end of the semester during project wrap up open a final Pull Request to main from dev branch.
+## Data
+* Due to the size of the data, please find the data on shared google drive for Spark! project. 
+
+  
+
